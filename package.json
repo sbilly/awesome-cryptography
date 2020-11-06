@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/sobolevn/awesome-cryptography#readme",
   "dependencies": {
-    "remark": "^4.2.2",
-    "remark-lint": "^3.2.1",
+    "remark": "^5.0.0",
+    "remark-lint": "^6.0.0",
     "remark-lint-alphabetize-lists": "^1.0.4",
     "remark-lint-are-links-valid": "^1.0.1",
     "remark-lint-list-item-punctuation": "^2.0.1"
